@@ -58,17 +58,21 @@ RegisterNumber: 212222230034
 ## Truthtable
 
 HALF SUBTRACTOR
+
 ![hs tt](https://github.com/Divya110205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119404855/97bab000-d85b-487b-84bb-9704b4e98f50)
 
 FULL SUBTRACTOR
+
 ![fs tt](https://github.com/Divya110205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119404855/56bdfc90-0cd7-4fca-a3e7-9159fd96d3f1)
 
 ##  RTL realization
 
 HALF SUBTRACTOR
+
 ![hs rtl](https://github.com/Divya110205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119404855/72b49c4e-d5bb-471f-896d-29180d7cea81)
 
 FULL SUBTRACTOR
+
 ![fs rtl](https://github.com/Divya110205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119404855/b6cd67de-571d-40ac-87a8-d176c0bc6478)
 
 ## Timing diagram 
