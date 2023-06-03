@@ -58,35 +58,26 @@ RegisterNumber: 212222230034
 ## Truthtable
 
 HALF SUBTRACTOR
-
-![kolk](https://user-images.githubusercontent.com/119404855/233268647-619f2f0d-a17e-494e-934f-8b79ec308552.png)
-
+![hs tt](https://github.com/Divya110205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119404855/97bab000-d85b-487b-84bb-9704b4e98f50)
 
 FULL SUBTRACTOR
-
-![Screenshot (46)](https://user-images.githubusercontent.com/119404855/233268679-85bf35d9-5853-4d33-92e3-197f22f11fb6.png)
-
+![fs tt](https://github.com/Divya110205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119404855/56bdfc90-0cd7-4fca-a3e7-9159fd96d3f1)
 
 ##  RTL realization
 
 HALF SUBTRACTOR
-
-![ex4 op1](https://user-images.githubusercontent.com/119404855/233269134-0188bd90-e2c6-4727-a649-40b6674f1485.png)
-
+![hs rtl](https://github.com/Divya110205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119404855/72b49c4e-d5bb-471f-896d-29180d7cea81)
 
 FULL SUBTRACTOR
-
-![Screenshot (44)](https://user-images.githubusercontent.com/119404855/233268952-81b4e2fb-8b97-4259-93ae-b21000d27b12.png)
+![fs rtl](https://github.com/Divya110205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119404855/b6cd67de-571d-40ac-87a8-d176c0bc6478)
 
 ## Timing diagram 
 
 HALF SUBTRACTOR
-
-![f 2](https://user-images.githubusercontent.com/119404855/233269190-cb53f628-2fb4-4693-93ef-68df8c852538.png)
+![hs td](https://github.com/Divya110205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119404855/f00d0d52-716c-4b72-8c33-cb8c74a18c94)
 
 FULL SUBTRACTOR
-
-![h 2](https://user-images.githubusercontent.com/119404855/233269225-7c02c38e-d267-4a55-aa8d-349eea5fa92b.png)
+![fs td](https://github.com/Divya110205/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119404855/fc0338d3-4b41-4242-b711-bf0d3963ecd8)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
